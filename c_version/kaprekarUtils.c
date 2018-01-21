@@ -23,7 +23,7 @@
  * <code>false</code> otherwise.
  */
 
-
+#define false 0                                 //Gave false a value
 
 int isKaprekar(int n) {
 
