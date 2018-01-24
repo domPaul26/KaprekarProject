@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1516765533 source:c:\users\dompa\documents\github\kaprekarproject\c_version\kaprekarproject\kaprekartest.c
+	<stdlib.h>
+	<stdio.h>
+	"kaprekarUtils.h"
+
+1516765565 source:c:\users\dompa\documents\github\kaprekarproject\c_version\kaprekarproject\kaprekardemo.c
+	<stdlib.h>
+	<stdio.h>
+	"kaprekarUtils.h"
+
+1516765651 source:c:\users\dompa\documents\github\kaprekarproject\c_version\kaprekarproject\kaprekarutils.c
+	<math.h>
+	"kaprekarUtils.h"
+
